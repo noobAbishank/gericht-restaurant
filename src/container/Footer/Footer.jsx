@@ -6,7 +6,7 @@ import { FooterOverlay, Newsletter } from "../../components";
 import { FiFacebook, FiInstagram, FiTwitter } from "react-icons/fi";
 
 const Footer = () => (
-  <div className="app__footer section__padding" id="#login">
+  <div className="app__footer section__padding" id="login">
     <FooterOverlay />
     <Newsletter />
 
